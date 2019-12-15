@@ -31,6 +31,7 @@ addons:
       - openssl
       - python
       - re2c
+      - zlib
     update: true
 
 matrix:
